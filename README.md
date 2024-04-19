@@ -40,8 +40,9 @@ I have compiled and uploaded all session from January 2021 to youtube. The link 
 
 Stichastic Modelling and Processing was first offered in 2014 and has been scheduled 1-2 times per year since then. The course responsible is Richard Brooks (RIB) and has been the only lecturer teaching the course.
 
+
 <div align="center">
-  
+
 **Grade Distribution 2023 (ordinary exam only)**
 
 | Grade | Count |
@@ -56,15 +57,18 @@ Stichastic Modelling and Processing was first offered in 2014 and has been sched
 
 </div>
 
+
+
 ## Lesson Plan
 
 Click on a session below to access a plan of a specific session and additional resources for that session.
 
 <div align="center">
 
+
 | Session | Date                 | Topic                        |
 | ------- | :----:               | ---------------------------- |
-| 00      |                      | [Important Math Recap](https://github.com/RBrooksDK/SMP1/blob/main/0%20Important%20MSE%20Recap/README.md)                          |
+| 00      |                      | [Important Math Recap](0 Important MSE Recap)                          |
 | 01      | 9 Feb 08:20 – 11:50  | [Introduction + Recap Probability + Stochastic Variables](https://github.com/RBrooksDK/SMP1/blob/main/01%20Introduction%20%2B%20Recap%20Probability%20%2B%20Stochastic%20Variables/README.md) |
 | 02      | 16 Feb 08:20 – 11:50 | [Discrete Random Variables](https://github.com/RBrooksDK/SMP1/blob/main/02%20Discrete%20Random%20Variables/README.md) |
 | 03      | 23 Feb 08:20 – 11:50 | [Continuous Random Variables](https://github.com/RBrooksDK/SMP1/blob/main/03%20Continuous%20Random%20Variables/README.md) |
