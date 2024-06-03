@@ -2,7 +2,9 @@
 
 **Material:**
 
-[Session notes](https://drive.google.com/file/d/1mLSXpKfc34urRq1iS8nJ_Mgf5STyTNNa/view?usp=sharing)
+[Recap notes](https://drive.google.com/file/d/1YrRNbEuI3CzXbju8-dNLD3SJB1Nadbum/view?usp=sharing)
+
+[Session notes](https://drive.google.com/file/d/1wlPT8WzlZ91CqzwnlmhFfryKuElfnfoD/view?usp=sharing)
 
 [Session material](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EuqNIuAYAltDmfXlB9l-DpMBTP5g7G1XrHFCqcXim9OfNQ?e=pbUO6r)
 
@@ -17,8 +19,6 @@ Markov chains are a mathematical framework used to model systems that change ove
 - Transition matrix: A matrix that describes the probabilities of moving from one state to another.
 - Stationary distribution: The long-term distribution of states that a Markov chain approaches over time.
 - Expected value: The average value that a variable takes over many iterations of the Markov chain.
-
-If time permits, we will look at some recap and then we will talk exam.
 
 ## Problems to be worked on in class:
 
